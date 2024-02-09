@@ -1,0 +1,28 @@
+.header  {
+    text-align: center;
+    background-color: antiquewhite;
+ }
+ 
+ 
+ .nav {
+    text-align: center;
+    background-color: greenyellow;
+ }
+ 
+ 
+ .main {
+    background-color: orange;
+ }
+ 
+ .footer {
+    background-color: blue;
+    text-align: center;
+ }
+
+p.yellow {
+    display: inline;
+    background-color: yellow;
+}
+.line {
+    display: inline;
+}
